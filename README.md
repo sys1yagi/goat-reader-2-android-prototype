@@ -8,6 +8,13 @@ RSSリーダです。Kotlinで書いています。
 最終的にバックエンドを作ってそっちでデータの更新や管理をする予定です。
 その辺りまで行ったらprivate repository(既に別途あります)の方に開発を移行します。
 
+## Setup
+
+今のところ以下の環境です。
+
+- Android Studio 0.8.1(beta)
+- Kotlin plugin 0.8.11
+
 ### 追加する予定の機能
 詳しくは[issue](https://github.com/sys1yagi/goat-reader-2-android-prototype/issues)で。
 
