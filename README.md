@@ -3,6 +3,8 @@ goat-reader-2-android-prototype
 
 RSSリーダです。Kotlinで書いています。
 
+<img src="https://raw.githubusercontent.com/sys1yagi/goat-reader-2-android-prototype/master/art/images/app_image.png" height="300px"/>
+
 ### ATTENTION
 本アプリではアプリ内でRSSフィードを取得しに行っています。電池がヤバイです。
 最終的にバックエンドを作ってそっちでデータの更新や管理をする予定です。
