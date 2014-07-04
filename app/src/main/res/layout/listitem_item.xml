@@ -3,10 +3,10 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:paddingLeft="16dp"
-    android:paddingRight="16dp"
-    android:paddingTop="8dp"
-    android:paddingBottom="8dp">
+    android:paddingLeft="@dimen/card_padding_2_times"
+    android:paddingRight="@dimen/card_padding_2_times"
+    android:paddingTop="@dimen/card_padding"
+    android:paddingBottom="@dimen/card_padding">
 
     <LinearLayout
         android:id="@+id/item_layout"
@@ -16,28 +16,26 @@
         android:orientation="vertical">
 
         <TextView
-            android:paddingLeft="8dp"
-            android:paddingRight="8dp"
-            android:paddingTop="8dp"
+            android:paddingLeft="@dimen/card_padding"
+            android:paddingRight="@dimen/card_padding"
+            android:paddingTop="@dimen/card_padding"
             android:id="@+id/date_text"
-            android:text="date"
-            android:textSize="10dp"
+            android:textSize="12sp"
             android:textColor="#66555555"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
         <LinearLayout
-            android:paddingLeft="8dp"
-            android:paddingRight="8dp"
-            android:paddingBottom="8dp"
+            android:paddingLeft="@dimen/card_padding"
+            android:paddingRight="@dimen/card_padding"
+            android:paddingBottom="@dimen/card_padding"
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
             <TextView
                 android:id="@+id/title_text"
-                android:text="Title"
-                android:textSize="16dp"
+                android:textSize="@dimen/card_padding_2_times"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
@@ -50,26 +48,24 @@
 
         <View
             android:layout_width="match_parent"
-            android:layout_height="4dp"
-            android:background="#99ffbb00" />
+            android:layout_height="@dimen/card_padding_half"
+            android:background="@color/orange" />
 
         <TextView
             android:id="@+id/description_text"
-            android:padding="8dp"
-            android:text="description"
-            android:textSize="12dp"
+            android:padding="@dimen/card_padding"
+            android:textSize="13sp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
         <TextView
             android:id="@+id/link_text"
-            android:paddingLeft="8dp"
-            android:paddingRight="8dp"
-            android:paddingTop="4dp"
-            android:paddingBottom="4dp"
-            android:text="link"
-            android:textSize="9dp"
-            android:textColor="#66555555"
+            android:paddingLeft="@dimen/card_padding"
+            android:paddingRight="@dimen/card_padding"
+            android:paddingTop="@dimen/card_padding_half"
+            android:paddingBottom="@dimen/card_padding_half"
+            android:textSize="12dp"
+            android:textColor="@color/gray"
             android:singleLine="true"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -78,6 +74,6 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:background="#66666666" />
+        android:background="@color/card_shadow" />
 
 </LinearLayout>

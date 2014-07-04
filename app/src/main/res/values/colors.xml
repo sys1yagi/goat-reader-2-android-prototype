@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="deep_orange">#FFA222</color>
+    <color name="orange">#FFC474</color>
+    <color name="light_orange">#FFDAA7</color>
+    <color name="black">#000000</color>
+    <color name="gray">#66555555</color>
+    <color name="blue">#79BDF6</color>
+
+    <color name="card_shadow">#66666666</color>
+
+</resources>
