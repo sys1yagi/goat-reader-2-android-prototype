@@ -21,7 +21,7 @@ class TopListFragment : Fragment() {
 
     class object {
 
-        val TAG = javaClass<TopListFragment>().getSimpleName()
+        val TAG = javaClass<TopListFragment>().getSimpleName()!!
 
         fun newInstance(): TopListFragment {
             val fragment = TopListFragment()
@@ -52,7 +52,7 @@ class TopListFragment : Fragment() {
             positions?.forEach {
                 val item = adapter.getItem(it)
                 item!!.isRead = true
-                val result = item!!.save()
+                item!!.save()
                 adapter.remove(item);
             }
         })

@@ -42,7 +42,7 @@ public class Item() : Model() {
     var title: String? = null
     Column(name = DESCRIPTION)
     var description: String? = null
-    Column(name = LINK, unique = true, onUniqueConflict = Column.ConflictAction.REPLACE)
+    Column(name = LINK, unique = true, onUniqueConflict = Column.ConflictAction.IGNORE)
     var link: String? = null
     Column(name = IMAGE_LINK)
     var imageLink: String? = null
