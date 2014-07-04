@@ -1,14 +1,7 @@
 package com.sys1yagi.goatreader.models
 
-import android.test.AndroidTestCase
-import com.squareup.otto.Bus
-import android.content.Context
-import android.test.mock.MockContext
 import kotlin.test.*
-import android.test.ApplicationTestCase
-import android.app.Application
 import com.activeandroid.ActiveAndroid
-import com.activeandroid.Configuration
 import com.activeandroid.query.Select
 import com.sys1yagi.goatreader.testtools.DatabaseTestCase
 

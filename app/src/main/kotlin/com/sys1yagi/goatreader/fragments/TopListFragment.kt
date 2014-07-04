@@ -7,13 +7,10 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.os.Bundle
 import com.sys1yagi.goatreader.R
-import android.widget.Button
 import com.activeandroid.query.Select
 import com.sys1yagi.goatreader.models.Item
 import android.widget.ListView
-import java.util.List
 import com.sys1yagi.goatreader.views.ItemListView
-import android.widget.AdapterView.OnItemClickListener
 import android.content.Intent
 import android.net.Uri
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeDismissAdapter

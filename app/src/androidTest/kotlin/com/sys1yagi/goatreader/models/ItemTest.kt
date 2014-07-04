@@ -1,13 +1,9 @@
 package com.sys1yagi.goatreader.models
 
-import android.test.ApplicationTestCase
-import android.app.Application
-import com.activeandroid.Configuration
 import com.activeandroid.ActiveAndroid
 import com.activeandroid.query.Select
 import com.sys1yagi.goatreader.testtools.DatabaseTestCase
 import kotlin.test.*
-import com.sys1yagi.goatreader.tools.Logger
 
 public class ItemTest() : DatabaseTestCase() {
 

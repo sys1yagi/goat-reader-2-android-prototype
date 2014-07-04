@@ -6,11 +6,9 @@ import android.view.ViewGroup
 import android.widget.ArrayAdapter
 import com.sys1yagi.goatreader.R
 import com.sys1yagi.goatreader.models.Item
-import com.sys1yagi.goatreader.extensions.*
 import android.widget.TextView
 import android.widget.ImageView
 import com.squareup.picasso.Picasso
-import com.sys1yagi.goatreader.tools.Logger
 
 public class ItemListView(context: Context) : ArrayAdapter<Item>(context, -1) {
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View? {
@@ -25,11 +23,10 @@ public class ItemListView(context: Context) : ArrayAdapter<Item>(context, -1) {
         holder?.description?.setText(item?.description)
         holder?.link?.setText(item?.link)
 
-        if(item?.imageLink != null) {
+        if (item?.imageLink != null) {
             holder?.icon?.setVisibility(View.VISIBLE)
             Picasso.with(getContext())?.load(item?.imageLink)?.into(holder?.icon)
-        }
-        else{
+        } else {
             holder?.icon?.setVisibility(View.GONE)
         }
         return view

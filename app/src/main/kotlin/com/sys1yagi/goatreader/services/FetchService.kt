@@ -3,16 +3,13 @@ package com.sys1yagi.goatreader.services
 import android.app.Service
 import android.content.Intent
 import com.sys1yagi.goatreader.tools.Logger
-import java.util.concurrent.ThreadPoolExecutor
 import java.util.concurrent.Executors
 import com.activeandroid.query.Select
 import com.sys1yagi.goatreader.models.Feed
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
-import java.net.URLConnection
 import java.net.HttpURLConnection
 import java.net.URL
-import org.apache.http.protocol.HTTP
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.util.Date
@@ -21,7 +18,6 @@ import java.text.SimpleDateFormat
 import java.util.Locale
 import org.jsoup.parser.Parser
 import com.sys1yagi.goatreader.models.Item
-import java.text.DateFormat
 import java.util.regex.Pattern
 
 public class FetchService() : Service() {

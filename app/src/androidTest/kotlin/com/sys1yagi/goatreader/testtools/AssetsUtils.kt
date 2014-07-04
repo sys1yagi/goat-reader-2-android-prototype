@@ -1,15 +1,13 @@
 package com.sys1yagi.goatreader.testtools
 
-import android.app.Instrumentation
 import org.apache.commons.io.IOUtils
-import java.io.InputStream
 import android.content.Context
 import com.sys1yagi.goatreader.tools.Logger
 
 public class AssetsUtils() {
     class object {
 
-        private val TAG: String = javaClass<AssetsUtils>().getSimpleName()
+        private val TAG: String = javaClass<AssetsUtils>().getSimpleName()!!
 
         public fun readJson(context: Context?, fileName: String?): String? {
             if (context == null) {

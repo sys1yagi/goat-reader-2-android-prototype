@@ -3,7 +3,6 @@ package com.sys1yagi.goatreader
 import android.app.Application
 import com.activeandroid.ActiveAndroid
 import com.sys1yagi.goatreader.tools.Logger
-import com.sys1yagi.goatreader.tools.Cron
 import com.sys1yagi.goatreader.tools.Seeds
 
 class GoatReaderApplication : Application() {

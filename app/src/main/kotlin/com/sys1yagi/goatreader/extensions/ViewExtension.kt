@@ -1,10 +1,8 @@
 package com.sys1yagi.goatreader.extensions
 
 import android.view.View
-import android.support.v4.app.Fragment
-import com.sys1yagi.goatreader.extensions.Injector
 
-public fun <T : View> View.viewInjector(resId: Int): Injector<T> = object: Injector<T> {
+public fun <T : View> View.viewInjector(resId: Int): Injector<T> = object : Injector<T> {
 
     private var view: T? = null
 

@@ -1,7 +1,5 @@
 package com.sys1yagi.goatreader.extensions
 
-import android.view.View
-import android.support.v4.app.Fragment
 import android.content.Context
 import android.app.AlarmManager
 
