@@ -11,6 +11,8 @@ public class MainActivity() : ActionBarActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setupActionBar()
+
         Cron.start(this)
         ContextBus.getInstance(this)?.register(this);
 
@@ -27,6 +29,12 @@ public class MainActivity() : ActionBarActivity() {
         super.onDestroy()
         ContextBus.getInstance(this)?.unregister(this);
     }
+
+    fun setupActionBar() {
+        val actionBar = getSupportActionBar()
+        actionBar?.setLogo(getResources()?.getDrawable(R.drawable.ic_theme_with_shadow))
+    }
+
 
     //    Subscribe fun onMoge(a: String) {
     //      //otto
