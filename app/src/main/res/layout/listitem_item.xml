@@ -15,8 +15,21 @@
         android:background="#ffffff"
         android:orientation="vertical">
 
+        <TextView
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:paddingTop="8dp"
+            android:id="@+id/date_text"
+            android:text="date"
+            android:textSize="10dp"
+            android:textColor="#66555555"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
         <LinearLayout
-            android:padding="8dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:paddingBottom="8dp"
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -28,6 +41,7 @@
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
+
             <ImageView
                 android:id="@+id/icon_image"
                 android:layout_width="70dp"
@@ -56,6 +70,7 @@
             android:text="link"
             android:textSize="9dp"
             android:textColor="#66555555"
+            android:singleLine="true"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
     </LinearLayout>

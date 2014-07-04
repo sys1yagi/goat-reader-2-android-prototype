@@ -25,7 +25,7 @@ public class FetchService() : Service() {
         val TAG = javaClass<FetchService>().getSimpleName()!!
         val EXECUTOR = Executors.newFixedThreadPool(1)
         val FORMAT = SimpleDateFormat("EEE, d MMMM yyyy HH:mm:ss z", Locale.ENGLISH)
-        val RSS_DATE_FORMAT = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss z")
+        val RSS_DATE_FORMAT = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssz")
         val IMAGE_LINK_PATTERN = Pattern.compile("<img src=\"(http[^\"]+\\.jpg)\"")!!
     }
 
@@ -66,6 +66,9 @@ public class FetchService() : Service() {
         parse(feed.getId(), xml)
 
         Logger.d(TAG, "${feed?.url} modified. time : ${System.currentTimeMillis() - startTime}")
+        Logger.d(TAG, "total:${Select().from(javaClass<Item>())?.count()}")
+        Logger.d(TAG, "read:${Select().from(javaClass<Item>())?.where("${Item.IS_READ}=?", true)?.count()}")
+        Logger.d(TAG, "unread:${Select().from(javaClass<Item>())?.where("${Item.IS_READ}=?", false)?.count()}")
     }
 
     public fun parse(feedId: Long?, xml: String?) {
@@ -94,7 +97,7 @@ public class FetchService() : Service() {
                             item.imageLink = m.group(1);
                         }
                     }
-                    "date" -> {
+                    "dc:date" -> {
                         item.createdAt = RSS_DATE_FORMAT.parse(it.text())
                     }
                 }

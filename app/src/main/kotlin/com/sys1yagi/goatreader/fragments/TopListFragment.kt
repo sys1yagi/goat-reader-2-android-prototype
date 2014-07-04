@@ -15,6 +15,7 @@ import android.content.Intent
 import android.net.Uri
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeDismissAdapter
 import com.nhaarman.listviewanimations.itemmanipulation.OnDismissCallback
+import com.sys1yagi.goatreader.tools.Logger
 
 class TopListFragment : Fragment() {
 
@@ -38,16 +39,20 @@ class TopListFragment : Fragment() {
         super.onActivityCreated(savedInstanceState)
 
         val adapter = ItemListView(getActivity()!!)
-        Select().from(javaClass<Item>())?.where("${Item.IS_READ}=?", false)?.execute<Item>()?.forEach {
-            adapter.add(it)
-        }
+        Select().from(javaClass<Item>())
+                ?.where("${Item.IS_READ}=?", false)
+                ?.orderBy("${Item.CREATED_AT} desc")
+                ?.execute<Item>()
+                ?.forEach {
+                    adapter.add(it)
+                }
 
         val swipeDismissAdaper = SwipeDismissAdapter(adapter, OnDismissCallback {
             listView, positions ->
             positions?.forEach {
                 val item = adapter.getItem(it)
                 item!!.isRead = true
-                item!!.save()
+                val result = item!!.save()
                 adapter.remove(item);
             }
         })
