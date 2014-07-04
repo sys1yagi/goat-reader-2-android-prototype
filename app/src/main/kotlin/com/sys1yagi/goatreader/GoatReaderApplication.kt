@@ -21,7 +21,6 @@ class GoatReaderApplication : Application() {
         Logger.d("GoatReaderApplication", "init")
         ActiveAndroid.initialize(this)
         Seeds.initDb()
-        Cron.start(this)
     }
 
     fun terminate() {
