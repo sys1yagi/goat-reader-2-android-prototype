@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+    xmlns:opensearch="http://a9.com/-/spec/opensearchrss/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:hatena="http://www.hatena.ne.jp/info/xmlns#"
+    xmlns:media="http://search.yahoo.com/mrss">
+    <channel rdf:about="http://b.hatena.ne.jp/entrylist">
+        <title>はてなブックマーク - 新着エントリー</title>
+        <link>http://b.hatena.ne.jp/entrylist</link>
+        <description>新着エントリー</description>
+
+        <items>
+            <rdf:Seq>
+                <rdf:li
+                    rdf:resource="http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html" />
+                <rdf:li rdf:resource="http://web-tan.forum.impressrd.jp/e/2014/07/04/17801" />
+                <rdf:li rdf:resource="https://gist.github.com/exoego/f653d79186b1761d0e4a" />
+                <rdf:li rdf:resource="http://www.fashion-press.net/news/11686" />
+                <rdf:li rdf:resource="http://kyouki.hatenablog.com/entry/2014/07/04/085036" />
+                <rdf:li rdf:resource="http://togetter.com/li/688327" />
+                <rdf:li rdf:resource="http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516" />
+                <rdf:li rdf:resource="http://anond.hatelabo.jp/20140704084158" />
+                <rdf:li rdf:resource="http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html" />
+                <rdf:li rdf:resource="http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html" />
+                <rdf:li rdf:resource="http://www.famitsu.com/news/201407/04056592.html" />
+                <rdf:li
+                    rdf:resource="http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/" />
+                <rdf:li
+                    rdf:resource="http://melborne.github.io/2014/07/04/you-always-compared-with-github/" />
+                <rdf:li
+                    rdf:resource="http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/" />
+                <rdf:li
+                    rdf:resource="http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/" />
+                <rdf:li
+                    rdf:resource="http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm" />
+                <rdf:li rdf:resource="http://japan.cnet.com/news/service/35050349/" />
+                <rdf:li rdf:resource="http://diamond.jp/articles/-/55505" />
+                <rdf:li
+                    rdf:resource="http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/" />
+                <rdf:li
+                    rdf:resource="http://mainichi.jp/select/news/20140704k0000m040115000c.html" />
+                <rdf:li
+                    rdf:resource="http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/" />
+                <rdf:li rdf:resource="http://getnews.jp/archives/613103" />
+                <rdf:li rdf:resource="http://afidou.com/afi/1123" />
+                <rdf:li
+                    rdf:resource="http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm" />
+                <rdf:li
+                    rdf:resource="http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html" />
+                <rdf:li rdf:resource="http://toyokeizai.net/articles/-/41725" />
+                <rdf:li
+                    rdf:resource="http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/" />
+                <rdf:li
+                    rdf:resource="http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html" />
+                <rdf:li rdf:resource="http://www.lifehacker.jp/2014/07/140704book_to_read.html" />
+                <rdf:li rdf:resource="http://blog.livedoor.jp/kinisoku/archives/4108557.html" />
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html">
+        <title>LINEいじめ、親の代わりに「監視します」 新サービスが登場</title>
+        <link>http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html</link>
+        <description>
+            ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック子どもが無料通信アプリ「ＬＩＮＥ」で友達から受け取ったメッセージを、親に代わって監視するサービスが登場した。いじめや性犯罪など、ＬＩＮＥを使ったトラブルに子どもが巻き込まれているのを、早期に発見するのがねらいだ。ＩＴベンチャー「エースチャイルド」（東京都品川区）が、６月３０日から、交流サイト監視サービス「Ｆｉｌｉｉ（フィリー）」に、ＬＩＮＥを監視...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html&quot;
+            title=&quot;LINEいじめ、親の代わりに「監視します」 新サービスが登場&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.huffingtonpost.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html&quot;&gt;LINEいじめ、親の代わりに「監視します」
+            新サービスが登場&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202511910-1404434253.jpg&quot; alt=&quot;LINEいじめ、親の代わりに「監視します」
+            新サービスが登場&quot; title=&quot;LINEいじめ、親の代わりに「監視します」 新サービスが登場&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック子どもが無料通信アプリ「ＬＩＮＥ」で友達から受け取ったメッセージを、親に代わって監視するサービスが登場した。いじめや性犯罪など、ＬＩＮＥを使ったトラブルに子どもが巻き込まれているのを、早期に発見するのがねらいだ。ＩＴベンチャー「エースチャイルド」（東京都品川区）が、６月３０日から、交流サイト監視サービス「Ｆｉｌｉｉ（フィリー）」に、ＬＩＮＥを監視...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html&quot;
+            alt=&quot;はてなブックマーク - LINEいじめ、親の代わりに「監視します」 新サービスが登場&quot; title=&quot;はてなブックマーク -
+            LINEいじめ、親の代わりに「監視します」 新サービスが登場&quot; border=&quot;0&quot; style=&quot;border: none&quot;
+            /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.huffingtonpost.jp/2014/07/03/line-filii_n_5556593.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T09:34:55+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>4</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://web-tan.forum.impressrd.jp/e/2014/07/04/17801">
+        <title>スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う など10+4記事（海外&amp;国内SEO情報） | Web担当者Forum</title>
+        <link>http://web-tan.forum.impressrd.jp/e/2014/07/04/17801</link>
+        <description>Web担トップ » 編集記事一覧 » 海外&amp;国内SEO情報ウォッチ » スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う…
+            ««ネガティブSEOからサイトを守れ! 被害状況の監視法 など10+2記事 連載海外&amp;国内SEO情報ウォッチ
+            スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う など10+4記事 スマホ向けサイトでどんな設定ミスがあるかの調査データと、それによって失われ...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://web-tan.forum.impressrd.jp/e/2014/07/04/17801&quot;
+            title=&quot;スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う など10+4記事（海外&amp;amp;国内SEO情報） | Web担当者Forum&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fweb-tan.forum.impressrd.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://web-tan.forum.impressrd.jp/e/2014/07/04/17801&quot;&gt;スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う
+            など10+4記事（海外&amp;amp;国内SEO情報） | Web担当者Forum&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://web-tan.forum.impressrd.jp/e/2014/07/04/17801&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202511410-1404433615.jpg&quot; alt=&quot;スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う
+            など10+4記事（海外&amp;amp;国内SEO情報） | Web担当者Forum&quot; title=&quot;スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う
+            など10+4記事（海外&amp;amp;国内SEO情報） | Web担当者Forum&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Web担トップ
+            » 編集記事一覧 » 海外&amp;amp;国内SEO情報ウォッチ » スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う… ««ネガティブSEOからサイトを守れ!
+            被害状況の監視法 など10+2記事 連載海外&amp;amp;国内SEO情報ウォッチ スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う など10+4記事
+            スマホ向けサイトでどんな設定ミスがあるかの調査データと、それによって失われ...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://web-tan.forum.impressrd.jp/e/2014/07/04/17801&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://web-tan.forum.impressrd.jp/e/2014/07/04/17801&quot;
+            alt=&quot;はてなブックマーク - スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う など10+4記事（海外&amp;amp;国内SEO情報） |
+            Web担当者Forum&quot; title=&quot;はてなブックマーク - スマホ向けサイトで設定ミスをすると68%の検索アクセスを失う など10+4記事（海外&amp;amp;国内SEO情報）
+            | Web担当者Forum&quot; border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://b.hatena.ne.jp/append?http://web-tan.forum.impressrd.jp/e/2014/07/04/17801&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T09:26:35+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>4</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="https://gist.github.com/exoego/f653d79186b1761d0e4a">
+        <title>転職活動してて訊きたいことのメモ</title>
+        <link>https://gist.github.com/exoego/f653d79186b1761d0e4a</link>
+        <description>制度 有休… 病休… 育休… 年収（月給、賞与など）… 住宅補助… 通勤補助… 資格手当… 人事評価… 自動車/自転車通勤… 健康保険… 保養施設… 部活動…
+            退職金… 確定拠出年金… ストック・オプション… 社員割引… 資格取得補助… 社内教育… 社外教育… 個人の働き方 残業… フレックス勤務… リモート勤務…
+            スーツ/カジュアル… BGM… 転勤… スキルセット… 公用語… 職場 PC… モ...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;https://gist.github.com/exoego/f653d79186b1761d0e4a&quot;
+            title=&quot;転職活動してて訊きたいことのメモ&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fgist.github.com%2Fexoego&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;https://gist.github.com/exoego/f653d79186b1761d0e4a&quot;&gt;転職活動してて訊きたいことのメモ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a
+            href=&quot;https://gist.github.com/exoego/f653d79186b1761d0e4a&quot;&gt;&lt;img src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202511374-1404433574.jpg&quot;
+            alt=&quot;転職活動してて訊きたいことのメモ&quot; title=&quot;転職活動してて訊きたいことのメモ&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;制度 有休… 病休… 育休… 年収（月給、賞与など）… 住宅補助… 通勤補助… 資格手当… 人事評価…
+            自動車/自転車通勤… 健康保険… 保養施設… 部活動… 退職金… 確定拠出年金… ストック・オプション… 社員割引… 資格取得補助… 社内教育… 社外教育… 個人の働き方
+            残業… フレックス勤務… リモート勤務… スーツ/カジュアル… BGM… 転勤… スキルセット… 公用語… 職場 PC… モ...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/https://gist.github.com/exoego/f653d79186b1761d0e4a&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/https://gist.github.com/exoego/f653d79186b1761d0e4a&quot;
+            alt=&quot;はてなブックマーク - 転職活動してて訊きたいことのメモ&quot; title=&quot;はてなブックマーク - 転職活動してて訊きたいことのメモ&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?https://gist.github.com/exoego/f653d79186b1761d0e4a&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T09:26:03+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>3</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://www.fashion-press.net/news/11686">
+        <title>クラフトビール、珈琲など100以上の店舗が大集合！“世界の食の蚤の市”が青山で開催 | ニュース - ファッションプレス</title>
+        <link>http://www.fashion-press.net/news/11686</link>
+        <description>2014年7月5日(土)、6日(日)の週末を始めに、「AOYAMA FOOD FLEA - 世界の食の蚤の市
+            -」が青山の国連大学で開催される。これは青山ファーマーズマーケットと同時開催されるもので、約70の農家、15の移動販売車、30の作り手、延べ100以上の出店者が集合する。
+            初回は素材と向き合い、酵母の助けを借りて丁寧に手作りされる「クラフトビール」が約15種類集合。ビールを醸造するブリュワ...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.fashion-press.net/news/11686&quot;
+            title=&quot;クラフトビール、珈琲など100以上の店舗が大集合！“世界の食の蚤の市”が青山で開催 | ニュース - ファッションプレス&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.fashion-press.net%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.fashion-press.net/news/11686&quot;&gt;クラフトビール、珈琲など100以上の店舗が大集合！“世界の食の蚤の市”が青山で開催
+            | ニュース - ファッションプレス&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://www.fashion-press.net/news/11686&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202511294-1404435742.jpg&quot; alt=&quot;クラフトビール、珈琲など100以上の店舗が大集合！“世界の食の蚤の市”が青山で開催
+            | ニュース - ファッションプレス&quot; title=&quot;クラフトビール、珈琲など100以上の店舗が大集合！“世界の食の蚤の市”が青山で開催 | ニュース -
+            ファッションプレス&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;2014年7月5日(土)、6日(日)の週末を始めに、「AOYAMA
+            FOOD FLEA - 世界の食の蚤の市
+            -」が青山の国連大学で開催される。これは青山ファーマーズマーケットと同時開催されるもので、約70の農家、15の移動販売車、30の作り手、延べ100以上の出店者が集合する。
+            初回は素材と向き合い、酵母の助けを借りて丁寧に手作りされる「クラフトビール」が約15種類集合。ビールを醸造するブリュワ...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://www.fashion-press.net/news/11686&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.fashion-press.net/news/11686&quot;
+            alt=&quot;はてなブックマーク - クラフトビール、珈琲など100以上の店舗が大集合！“世界の食の蚤の市”が青山で開催 | ニュース - ファッションプレス&quot;
+            title=&quot;はてなブックマーク - クラフトビール、珈琲など100以上の店舗が大集合！“世界の食の蚤の市”が青山で開催 | ニュース - ファッションプレス&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.fashion-press.net/news/11686&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T09:24:25+09:00</dc:date>
+        <dc:subject>暮らし</dc:subject>
+        <hatena:bookmarkcount>5</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://kyouki.hatenablog.com/entry/2014/07/04/085036">
+        <title>大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来 - ICHIROYAのブログ</title>
+        <link>http://kyouki.hatenablog.com/entry/2014/07/04/085036</link>
+        <description>2014-07-04 大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来 この記事（「Content Used to Be King. Now
+            It's the
+            Joker」などを読むと、「コンテンツ（Content)」という言葉は、「コンテンツマーケティング」という言葉で使われる意味での狭義の「コンテンツ」を指すことも多くなっているようだ。
+            　 　なんのこっちゃ？ 　っていうのが、普...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://kyouki.hatenablog.com/entry/2014/07/04/085036&quot;
+            title=&quot;大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来 - ICHIROYAのブログ&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fkyouki.hatenablog.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://kyouki.hatenablog.com/entry/2014/07/04/085036&quot;&gt;大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来
+            - ICHIROYAのブログ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://kyouki.hatenablog.com/entry/2014/07/04/085036&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202511166-1404433351.jpg&quot; alt=&quot;大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来
+            - ICHIROYAのブログ&quot; title=&quot;大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来 - ICHIROYAのブログ&quot;
+            class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;2014-07-04
+            大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来 この記事（「Content Used to Be King. Now It's the
+            Joker」などを読むと、「コンテンツ（Content)」という言葉は、「コンテンツマーケティング」という言葉で使われる意味での狭義の「コンテンツ」を指すことも多くなっているようだ。
+            　 　なんのこっちゃ？ 　っていうのが、普...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://kyouki.hatenablog.com/entry/2014/07/04/085036&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://kyouki.hatenablog.com/entry/2014/07/04/085036&quot;
+            alt=&quot;はてなブックマーク - 大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来 - ICHIROYAのブログ&quot; title=&quot;はてなブックマーク
+            - 大量の『コンテンツ』を消費するウェッブメディアとブロガーの未来 - ICHIROYAのブログ&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://kyouki.hatenablog.com/entry/2014/07/04/085036&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T09:22:14+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>4</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://togetter.com/li/688327">
+        <title>「プロ」が持っている特徴について - Togetterまとめ</title>
+        <link>http://togetter.com/li/688327</link>
+        <description>プロは全方向に優れているわけではなく、限られたリソースを的確な方向に注ぐのがうまいのだという話を軸に、若い人にエールを送る連ツイです。
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://togetter.com/li/688327&quot; title=&quot;「プロ」が持っている特徴について
+            - Togetterまとめ&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Ftogetter.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://togetter.com/li/688327&quot;&gt;「プロ」が持っている特徴について
+            - Togetterまとめ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;プロは全方向に優れているわけではなく、限られたリソースを的確な方向に注ぐのがうまいのだという話を軸に、若い人にエールを送る連ツイです。&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://togetter.com/li/688327&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://togetter.com/li/688327&quot; alt=&quot;はてなブックマーク
+            - 「プロ」が持っている特徴について - Togetterまとめ&quot; title=&quot;はてなブックマーク - 「プロ」が持っている特徴について -
+            Togetterまとめ&quot; border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://b.hatena.ne.jp/append?http://togetter.com/li/688327&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T09:08:11+09:00</dc:date>
+        <dc:subject>学び</dc:subject>
+        <hatena:bookmarkcount>14</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516">
+        <title>「すごいErlangゆかいに学ぼう! 」という本が出版されました #すごいE本 - YAMAGUCHI::weblog</title>
+        <link>http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516</link>
+        <description>2014-07-04 「すごいErlangゆかいに学ぼう! 」という本が出版されました #すごいE本 Erlang misc はじめに
+            こんにちは、Erlang界のCBR400Rです。このたび、私の2冊めの翻訳書籍、印刷されたものとしては初となる書籍が「すごいErlangゆかいに学ぼう!」というタイトルでオーム社より出版されました。本日より書店ならびにAmazonはじめとするオンラインストアでご購...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516&quot;
+            title=&quot;「すごいErlangゆかいに学ぼう! 」という本が出版されました #すごいE本 - YAMAGUCHI::weblog&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fymotongpoo.hatenablog.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516&quot;&gt;「すごいErlangゆかいに学ぼう!
+            」という本が出版されました #すごいE本 - YAMAGUCHI::weblog&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202508858-1404431533.jpg&quot; alt=&quot;「すごいErlangゆかいに学ぼう!
+            」という本が出版されました #すごいE本 - YAMAGUCHI::weblog&quot; title=&quot;「すごいErlangゆかいに学ぼう!
+            」という本が出版されました #すごいE本 - YAMAGUCHI::weblog&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;2014-07-04
+            「すごいErlangゆかいに学ぼう! 」という本が出版されました #すごいE本 Erlang misc はじめに
+            こんにちは、Erlang界のCBR400Rです。このたび、私の2冊めの翻訳書籍、印刷されたものとしては初となる書籍が「すごいErlangゆかいに学ぼう!」というタイトルでオーム社より出版されました。本日より書店ならびにAmazonはじめとするオンラインストアでご購...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516&quot;
+            alt=&quot;はてなブックマーク - 「すごいErlangゆかいに学ぼう! 」という本が出版されました #すごいE本 - YAMAGUCHI::weblog&quot;
+            title=&quot;はてなブックマーク - 「すごいErlangゆかいに学ぼう! 」という本が出版されました #すごいE本 - YAMAGUCHI::weblog&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://ymotongpoo.hatenablog.com/entry/2014/07/04/084516&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:52:03+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>11</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://anond.hatelabo.jp/20140704084158">
+        <title>時計を丸呑みしていた話</title>
+        <link>http://anond.hatelabo.jp/20140704084158</link>
+        <description>
+            昔、性欲の塊だったころ、インターネットを通じて調教してもらったことがある。その人は凄く変わったプレイが好きな人で、色々なことを教えてもらった。ちくわをまずく食べる方法や、おしっこを熱すると死にたくなることとか、色々。その中でも衝撃的だったのが「時計丸のみ」だった。これは肉体的にかなりしんどかったんだけど、凄く気持ちよかった。
+            このプレイを持ちかけられたキッカケは、うんこを食べることは不快感があるけ...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://anond.hatelabo.jp/20140704084158&quot;
+            title=&quot;時計を丸呑みしていた話&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fanond.hatelabo.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://anond.hatelabo.jp/20140704084158&quot;&gt;時計を丸呑みしていた話&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;昔、性欲の塊だったころ、インターネットを通じて調教してもらったことがある。その人は凄く変わったプレイが好きな人で、色々なことを教えてもらった。ちくわをまずく食べる方法や、おしっこを熱すると死にたくなることとか、色々。その中でも衝撃的だったのが「時計丸のみ」だった。これは肉体的にかなりしんどかったんだけど、凄く気持ちよかった。
+            このプレイを持ちかけられたキッカケは、うんこを食べることは不快感があるけ...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://anond.hatelabo.jp/20140704084158&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://anond.hatelabo.jp/20140704084158&quot;
+            alt=&quot;はてなブックマーク - 時計を丸呑みしていた話&quot; title=&quot;はてなブックマーク - 時計を丸呑みしていた話&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://anond.hatelabo.jp/20140704084158&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:51:31+09:00</dc:date>
+        <dc:subject>おもしろ</dc:subject>
+        <hatena:bookmarkcount>13</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html">
+        <title>ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック：朝日新聞デジタル</title>
+        <link>http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html</link>
+        <description>
+            子どもが無料通信アプリ「ＬＩＮＥ」で友達から受け取ったメッセージを、親に代わって監視するサービスが登場した。いじめや性犯罪など、ＬＩＮＥを使ったトラブルに子どもが巻き込まれているのを、早期に発見するのがねらいだ。　ＩＴベンチャー「エースチャイルド」（東京都品川区）が、６月３０日から、交流サイト監視サービス「Ｆｉｌｉｉ（フィリー）」に、ＬＩＮＥを監視する新機能を加えた。「隠す」（持ち物を隠す）や「応...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html&quot;
+            title=&quot;ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック：朝日新聞デジタル&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.asahi.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html&quot;&gt;ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック：朝日新聞デジタル&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a
+            href=&quot;http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html&quot;&gt;&lt;img src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202508478-1404431217.jpg&quot;
+            alt=&quot;ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック：朝日新聞デジタル&quot; title=&quot;ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック：朝日新聞デジタル&quot;
+            class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;子どもが無料通信アプリ「ＬＩＮＥ」で友達から受け取ったメッセージを、親に代わって監視するサービスが登場した。いじめや性犯罪など、ＬＩＮＥを使ったトラブルに子どもが巻き込まれているのを、早期に発見するのがねらいだ。　ＩＴベンチャー「エースチャイルド」（東京都品川区）が、６月３０日から、交流サイト監視サービス「Ｆｉｌｉｉ（フィリー）」に、ＬＩＮＥを監視する新機能を加えた。「隠す」（持ち物を隠す）や「応...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html&quot;
+            alt=&quot;はてなブックマーク - ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック：朝日新聞デジタル&quot; title=&quot;はてなブックマーク -
+            ＬＩＮＥいじめ、親に代わり監視サービス　単語チェック：朝日新聞デジタル&quot; border=&quot;0&quot; style=&quot;border: none&quot;
+            /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.asahi.com/articles/ASG6T4RC7G6TUCVL00K.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:46:30+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>14</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html">
+        <title>サラエボ事件から１００年、世界は第３次世界大戦を欲している: 愛国を考えるブログ</title>
+        <link>http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html</link>
+        <description>
+            昨日６月２８日はワールドカップにも出場したボスニアの首都・サラエボでサラエボ事件が起きてちょうど１００周年にあたる。サラエボ事件とはオーストリア帝国の皇太子夫妻が、サラエボで暗殺された事件であり、この事件がきっかけとなって第一次世界大戦が開戦したいわくつきの事件であった。
+            　そんなわけで非常に重要な事件だったのだが、この１００周年を機にもう一回見直そうというわけだ。なぜならば今ほど戦争が必要なとき...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html&quot;
+            title=&quot;サラエボ事件から１００年、世界は第３次世界大戦を欲している: 愛国を考えるブログ&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fsinnnoaikokuhosyu.seesaa.net%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html&quot;&gt;サラエボ事件から１００年、世界は第３次世界大戦を欲している:
+            愛国を考えるブログ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;昨日６月２８日はワールドカップにも出場したボスニアの首都・サラエボでサラエボ事件が起きてちょうど１００周年にあたる。サラエボ事件とはオーストリア帝国の皇太子夫妻が、サラエボで暗殺された事件であり、この事件がきっかけとなって第一次世界大戦が開戦したいわくつきの事件であった。
+            　そんなわけで非常に重要な事件だったのだが、この１００周年を機にもう一回見直そうというわけだ。なぜならば今ほど戦争が必要なとき...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html&quot;
+            alt=&quot;はてなブックマーク - サラエボ事件から１００年、世界は第３次世界大戦を欲している: 愛国を考えるブログ&quot; title=&quot;はてなブックマーク
+            - サラエボ事件から１００年、世界は第３次世界大戦を欲している: 愛国を考えるブログ&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://sinnnoaikokuhosyu.seesaa.net/article/400504889.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:44:53+09:00</dc:date>
+        <dc:subject>世の中</dc:subject>
+        <hatena:bookmarkcount>3</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://www.famitsu.com/news/201407/04056592.html">
+        <title>リンクスタート！　Oculus VRが「ソードアート・オンライン」のナーヴギアデモを公開 - ファミ通.com</title>
+        <link>http://www.famitsu.com/news/201407/04056592.html</link>
+        <description>●ナーブギアに似ているとは言われたきたけど、まさか本当に実現しちゃうとは！ ロサンゼルスで開幕したコンベンション“Anime Expo”で、Oculus
+            VRが「ソードアート・オンライン」ネタのデモを公開し、話題を呼んでいる。 Oculus VRは、VRヘッドマウントディスプレイ“Oculus
+            Rift”を開発中のメーカー。頭の動きにCG世界内の視界が追従することで、「ソードアート・オンライン」の...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.famitsu.com/news/201407/04056592.html&quot;
+            title=&quot;リンクスタート！　Oculus VRが「ソードアート・オンライン」のナーヴギアデモを公開 - ファミ通.com&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.famitsu.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.famitsu.com/news/201407/04056592.html&quot;&gt;リンクスタート！　Oculus
+            VRが「ソードアート・オンライン」のナーヴギアデモを公開 - ファミ通.com&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://www.famitsu.com/news/201407/04056592.html&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202508390-1404431069.jpg&quot; alt=&quot;リンクスタート！　Oculus
+            VRが「ソードアート・オンライン」のナーヴギアデモを公開 - ファミ通.com&quot; title=&quot;リンクスタート！　Oculus
+            VRが「ソードアート・オンライン」のナーヴギアデモを公開 - ファミ通.com&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;●ナーブギアに似ているとは言われたきたけど、まさか本当に実現しちゃうとは！
+            ロサンゼルスで開幕したコンベンション“Anime Expo”で、Oculus VRが「ソードアート・オンライン」ネタのデモを公開し、話題を呼んでいる。 Oculus
+            VRは、VRヘッドマウントディスプレイ“Oculus Rift”を開発中のメーカー。頭の動きにCG世界内の視界が追従することで、「ソードアート・オンライン」の...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://www.famitsu.com/news/201407/04056592.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.famitsu.com/news/201407/04056592.html&quot;
+            alt=&quot;はてなブックマーク - リンクスタート！　Oculus VRが「ソードアート・オンライン」のナーヴギアデモを公開 - ファミ通.com&quot;
+            title=&quot;はてなブックマーク - リンクスタート！　Oculus VRが「ソードアート・オンライン」のナーヴギアデモを公開 - ファミ通.com&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.famitsu.com/news/201407/04056592.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:44:16+09:00</dc:date>
+        <dc:subject>アニメとゲーム</dc:subject>
+        <hatena:bookmarkcount>5</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/">
+        <title>「キュレーション」大人気　メディアの支配始まるか　　：日本経済新聞</title>
+        <link>http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/</link>
+        <description>
+            「10倍のポテンシャルはある」。元ライブドア社長の堀江貴文氏が大きな成長を予想するのがニュースキュレーションサイトだ。ベンチャー企業が提供するスマートニュース、グノシー、ニューズピックスといったサービスは増資による多額の資金調達やテレビCMなどで勢いづき、ライン、ヤフーなど大手も参入して競争は激しさを増している。ニュースキュレーションサイトはニュースの世界をどう変えていくのだろうか。■背景に多過ぎ...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/&quot;
+            title=&quot;「キュレーション」大人気　メディアの支配始まるか　　：日本経済新聞&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.nikkei.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/&quot;&gt;「キュレーション」大人気　メディアの支配始まるか　　：日本経済新聞&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a
+            href=&quot;http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202508318-1404431021.jpg&quot; alt=&quot;「キュレーション」大人気　メディアの支配始まるか　　：日本経済新聞&quot;
+            title=&quot;「キュレーション」大人気　メディアの支配始まるか　　：日本経済新聞&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;「10倍のポテンシャルはある」。元ライブドア社長の堀江貴文氏が大きな成長を予想するのがニュースキュレーションサイトだ。ベンチャー企業が提供するスマートニュース、グノシー、ニューズピックスといったサービスは増資による多額の資金調達やテレビCMなどで勢いづき、ライン、ヤフーなど大手も参入して競争は激しさを増している。ニュースキュレーションサイトはニュースの世界をどう変えていくのだろうか。■背景に多過ぎ...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/&quot;
+            alt=&quot;はてなブックマーク - 「キュレーション」大人気　メディアの支配始まるか　　：日本経済新聞&quot; title=&quot;はてなブックマーク -
+            「キュレーション」大人気　メディアの支配始まるか　　：日本経済新聞&quot; border=&quot;0&quot; style=&quot;border: none&quot;
+            /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.nikkei.com/article/DGXNASFK0103D_R00C14A7000000/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:43:13+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>5</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://melborne.github.io/2014/07/04/you-always-compared-with-github/">
+        <title>GitHubの彼と自分を比べて何になるの？</title>
+        <link>http://melborne.github.io/2014/07/04/you-always-compared-with-github/</link>
+        <description>
+            過去の自分と今の自分を比べてみてそこに何か変化があったとき、人は生きていることを実感します。UNIXを作った人達は自分たちが生きているということをコンピュータスクリーン上で実感したくて、「Diff」というツールを作りました。Diffがあれば簡単に一年前の自分と今の自分を比べられるのです。
+            % diff -u me_in_last_summer.txt me.txt --- me_in_last_s...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://melborne.github.io/2014/07/04/you-always-compared-with-github/&quot;
+            title=&quot;GitHubの彼と自分を比べて何になるの？&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fmelborne.github.io%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://melborne.github.io/2014/07/04/you-always-compared-with-github/&quot;&gt;GitHubの彼と自分を比べて何になるの？&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;過去の自分と今の自分を比べてみてそこに何か変化があったとき、人は生きていることを実感します。UNIXを作った人達は自分たちが生きているということをコンピュータスクリーン上で実感したくて、「Diff」というツールを作りました。Diffがあれば簡単に一年前の自分と今の自分を比べられるのです。
+            % diff -u me_in_last_summer.txt me.txt --- me_in_last_s...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://melborne.github.io/2014/07/04/you-always-compared-with-github/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://melborne.github.io/2014/07/04/you-always-compared-with-github/&quot;
+            alt=&quot;はてなブックマーク - GitHubの彼と自分を比べて何になるの？&quot; title=&quot;はてなブックマーク -
+            GitHubの彼と自分を比べて何になるの？&quot; border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://b.hatena.ne.jp/append?http://melborne.github.io/2014/07/04/you-always-compared-with-github/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:41:48+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>4</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/">
+        <title>アメリカのオンデマンド音楽ストリーミング、対前年比42%アップ―ダウンロード販売は衰退へ - TechCrunch</title>
+        <link>http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/</link>
+        <description>
+            2014年上半期のNielsen音楽市場レポートが発表された。これによると、デジタル音楽の消費チャンネルはダウンロードからオンデマンド・ストリーミングに急速にシフトしつつある。オンデマンド・ストリーミングは対前年同期（上半期）比で42%のアップとなっている。2014年上半期には700億曲がストリーミング再生された。逆に、デジタル楽曲のダウンロードは13%ダウンして5億9360万曲に、アルバムのダウ...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/&quot;
+            title=&quot;アメリカのオンデマンド音楽ストリーミング、対前年比42%アップ―ダウンロード販売は衰退へ - TechCrunch&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fjp.techcrunch.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/&quot;&gt;アメリカのオンデマンド音楽ストリーミング、対前年比42%アップ―ダウンロード販売は衰退へ
+            - TechCrunch&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202507242-1404430463.jpg&quot; alt=&quot;アメリカのオンデマンド音楽ストリーミング、対前年比42%アップ―ダウンロード販売は衰退へ
+            - TechCrunch&quot; title=&quot;アメリカのオンデマンド音楽ストリーミング、対前年比42%アップ―ダウンロード販売は衰退へ - TechCrunch&quot;
+            class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;2014年上半期のNielsen音楽市場レポートが発表された。これによると、デジタル音楽の消費チャンネルはダウンロードからオンデマンド・ストリーミングに急速にシフトしつつある。オンデマンド・ストリーミングは対前年同期（上半期）比で42%のアップとなっている。2014年上半期には700億曲がストリーミング再生された。逆に、デジタル楽曲のダウンロードは13%ダウンして5億9360万曲に、アルバムのダウ...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/&quot;
+            alt=&quot;はてなブックマーク - アメリカのオンデマンド音楽ストリーミング、対前年比42%アップ―ダウンロード販売は衰退へ - TechCrunch&quot;
+            title=&quot;はてなブックマーク - アメリカのオンデマンド音楽ストリーミング、対前年比42%アップ―ダウンロード販売は衰退へ - TechCrunch&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://jp.techcrunch.com/2014/07/04/20140703streaming-is-killing-downloads/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:33:40+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>4</hatena:bookmarkcount>
+    </item>
+    <item
+        rdf:about="http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/">
+        <title>Octicons - GitHubで使われているWebFont MOONGIFT</title>
+        <link>
+            http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/
+        </link>
+        <description>
+            他のサイトで使われているリソース、フレームワーク、画像などが気になるということはよくありますよね。そんなとき、有償のものだとちょっと高くて手が出せない場合もあります。
+            しかしGitHubが自社サイトで使っているアイコンリソースをOcticonsとして公開しました。これでGitHub内で気になったアイコンであればすぐに使えるようになります。
+            Octiconsの使い方 OcticonsはSVG、Tru...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/&quot;
+            title=&quot;Octicons - GitHubで使われているWebFont MOONGIFT&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.moongift.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/&quot;&gt;Octicons
+            - GitHubで使われているWebFont MOONGIFT&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202507210-1404430451.jpg&quot; alt=&quot;Octicons
+            - GitHubで使われているWebFont MOONGIFT&quot; title=&quot;Octicons - GitHubで使われているWebFont
+            MOONGIFT&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;他のサイトで使われているリソース、フレームワーク、画像などが気になるということはよくありますよね。そんなとき、有償のものだとちょっと高くて手が出せない場合もあります。
+            しかしGitHubが自社サイトで使っているアイコンリソースをOcticonsとして公開しました。これでGitHub内で気になったアイコンであればすぐに使えるようになります。
+            Octiconsの使い方 OcticonsはSVG、Tru...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/&quot;
+            alt=&quot;はてなブックマーク - Octicons - GitHubで使われているWebFont MOONGIFT&quot; title=&quot;はてなブックマーク
+            - Octicons - GitHubで使われているWebFont MOONGIFT&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.moongift.jp/2014/07/octicons-github%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8Bwebfont/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:33:38+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>7</hatena:bookmarkcount>
+    </item>
+    <item
+        rdf:about="http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm">
+        <title>【衝撃事件の核心】女子高生ナンパ、猥褻三昧、動画投稿で収入も…史上最年少当選２７歳イケメン市民派市議のとんだ“裏の顔”（1/4ページ） - MSN産経west
+        </title>
+        <link>http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm</link>
+        <description>
+            史上最年少当選を果たし、期待の若手として注目された２７歳のイケメン市議は、とんだ“裏の顔”を持っていた。ナンパした女子高生を自宅に連れ込んでわいせつな行為をしたうえ、その動画をインターネットに投稿したとして、児童売春・児童ポルノ禁止法違反容疑などで奈良県葛城市の市議が逮捕された。県警が押収したパソコンなどを調べたところ、他にも複数の少女らとのわいせつ動画を投稿していたことが判明。「制服コスプレ」な...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm&quot;
+            title=&quot;【衝撃事件の核心】女子高生ナンパ、猥褻三昧、動画投稿で収入も…史上最年少当選２７歳イケメン市民派市議のとんだ“裏の顔”（1/4ページ） -
+            MSN産経west&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fsankei.jp.msn.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm&quot;&gt;【衝撃事件の核心】女子高生ナンパ、猥褻三昧、動画投稿で収入も…史上最年少当選２７歳イケメン市民派市議のとんだ“裏の顔”（1/4ページ）
+            - MSN産経west&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202506866-1404430409.jpg&quot; alt=&quot;【衝撃事件の核心】女子高生ナンパ、猥褻三昧、動画投稿で収入も…史上最年少当選２７歳イケメン市民派市議のとんだ“裏の顔”（1/4ページ）
+            - MSN産経west&quot; title=&quot;【衝撃事件の核心】女子高生ナンパ、猥褻三昧、動画投稿で収入も…史上最年少当選２７歳イケメン市民派市議のとんだ“裏の顔”（1/4ページ）
+            - MSN産経west&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;史上最年少当選を果たし、期待の若手として注目された２７歳のイケメン市議は、とんだ“裏の顔”を持っていた。ナンパした女子高生を自宅に連れ込んでわいせつな行為をしたうえ、その動画をインターネットに投稿したとして、児童売春・児童ポルノ禁止法違反容疑などで奈良県葛城市の市議が逮捕された。県警が押収したパソコンなどを調べたところ、他にも複数の少女らとのわいせつ動画を投稿していたことが判明。「制服コスプレ」な...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm&quot;
+            alt=&quot;はてなブックマーク -
+            【衝撃事件の核心】女子高生ナンパ、猥褻三昧、動画投稿で収入も…史上最年少当選２７歳イケメン市民派市議のとんだ“裏の顔”（1/4ページ） - MSN産経west&quot;
+            title=&quot;はてなブックマーク -
+            【衝撃事件の核心】女子高生ナンパ、猥褻三昧、動画投稿で収入も…史上最年少当選２７歳イケメン市民派市議のとんだ“裏の顔”（1/4ページ） - MSN産経west&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://sankei.jp.msn.com/west/west_affairs/news/140704/waf14070407000002-n1.htm&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:32:59+09:00</dc:date>
+        <dc:subject>世の中</dc:subject>
+        <hatena:bookmarkcount>10</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://japan.cnet.com/news/service/35050349/">
+        <title>「iPhone」登場から7年--革新の歴史を写真で振り返る - CNET Japan</title>
+        <link>http://japan.cnet.com/news/service/35050349/</link>
+        <description>The Japanese edition of 'CNET' is published under license from CBS Interactive,
+            Inc., San Francisco, CA, USA. Editorial items appearing in 'CNET Japan' that were
+            originally published in the US Edition...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://japan.cnet.com/news/service/35050349/&quot;
+            title=&quot;「iPhone」登場から7年--革新の歴史を写真で振り返る - CNET Japan&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fjapan.cnet.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://japan.cnet.com/news/service/35050349/&quot;&gt;「iPhone」登場から7年--革新の歴史を写真で振り返る
+            - CNET Japan&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://japan.cnet.com/news/service/35050349/&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202505638-1404429999.jpg&quot; alt=&quot;「iPhone」登場から7年--革新の歴史を写真で振り返る
+            - CNET Japan&quot; title=&quot;「iPhone」登場から7年--革新の歴史を写真で振り返る - CNET Japan&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The Japanese edition of 'CNET' is published under
+            license from CBS Interactive, Inc., San Francisco, CA, USA. Editorial items appearing in
+            'CNET Japan' that were originally published in the US Edition...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://japan.cnet.com/news/service/35050349/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://japan.cnet.com/news/service/35050349/&quot;
+            alt=&quot;はてなブックマーク - 「iPhone」登場から7年--革新の歴史を写真で振り返る - CNET Japan&quot; title=&quot;はてなブックマーク
+            - 「iPhone」登場から7年--革新の歴史を写真で振り返る - CNET Japan&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://japan.cnet.com/news/service/35050349/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:26:23+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>4</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://diamond.jp/articles/-/55505">
+        <title>「俺は中国から脱出する！」ある中小企業経営者の中国撤退ゲリラ戦記｜China Report 中国は今｜ダイヤモンド・オンライン</title>
+        <link>http://diamond.jp/articles/-/55505</link>
+        <description>
+            低コスト生産の魅力が減退する中国。現地に進出する日本企業なら一度は撤退を考えたことはあるだろう。だが、現実を知って愕然とする。「撤退したくとも撤退できない」からだ。
+            撤退コストを算盤で弾けばざっと1億円、董事会（取締役会に相当）もなかなか首を縦に振らなければ、手続き関係もややこしい。中国の動画サイトでは、日本人経営者が中国人の工員に吊るし上げられ、土下座して謝っているシーンが流れる。となれば、結論...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://diamond.jp/articles/-/55505&quot; title=&quot;「俺は中国から脱出する！」ある中小企業経営者の中国撤退ゲリラ戦記｜China
+            Report 中国は今｜ダイヤモンド・オンライン&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fdiamond.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://diamond.jp/articles/-/55505&quot;&gt;「俺は中国から脱出する！」ある中小企業経営者の中国撤退ゲリラ戦記｜China
+            Report 中国は今｜ダイヤモンド・オンライン&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://diamond.jp/articles/-/55505&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202505606-1404429979.jpg&quot; alt=&quot;「俺は中国から脱出する！」ある中小企業経営者の中国撤退ゲリラ戦記｜China
+            Report 中国は今｜ダイヤモンド・オンライン&quot; title=&quot;「俺は中国から脱出する！」ある中小企業経営者の中国撤退ゲリラ戦記｜China Report
+            中国は今｜ダイヤモンド・オンライン&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;低コスト生産の魅力が減退する中国。現地に進出する日本企業なら一度は撤退を考えたことはあるだろう。だが、現実を知って愕然とする。「撤退したくとも撤退できない」からだ。
+            撤退コストを算盤で弾けばざっと1億円、董事会（取締役会に相当）もなかなか首を縦に振らなければ、手続き関係もややこしい。中国の動画サイトでは、日本人経営者が中国人の工員に吊るし上げられ、土下座して謝っているシーンが流れる。となれば、結論...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://diamond.jp/articles/-/55505&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://diamond.jp/articles/-/55505&quot;
+            alt=&quot;はてなブックマーク - 「俺は中国から脱出する！」ある中小企業経営者の中国撤退ゲリラ戦記｜China Report 中国は今｜ダイヤモンド・オンライン&quot;
+            title=&quot;はてなブックマーク - 「俺は中国から脱出する！」ある中小企業経営者の中国撤退ゲリラ戦記｜China Report 中国は今｜ダイヤモンド・オンライン&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://diamond.jp/articles/-/55505&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:25:58+09:00</dc:date>
+        <dc:subject>世の中</dc:subject>
+        <hatena:bookmarkcount>13</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/">
+        <title>海外向けWebサイト作成のポイント Top10 〜第1回 btraxオンラインセミナーより〜 | freshtrax | btrax スタッフブログ</title>
+        <link>http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/</link>
+        <description>
+            海外向けWebサイトを作ったけれどいまいち問い合わせが来ない。そんな悩みを解消するため、海外向けWebサイト作成をテーマとして、先日弊社CEOが第一回btraxオンラインセミナーを行った。海外向けウェブサイトを作るにあたって気をつけなければならないことは正しい英語を使用することだけではもちろんない。今回はセミナーのテーマとなった”海外向けサイトにありがちな間違いTOP10”をセミナーでのQ&amp;Aと併...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/&quot;
+            title=&quot;海外向けWebサイト作成のポイント Top10 〜第1回 btraxオンラインセミナーより〜 | freshtrax | btrax スタッフブログ&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fblog.btrax.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/&quot;&gt;海外向けWebサイト作成のポイント
+            Top10 〜第1回 btraxオンラインセミナーより〜 | freshtrax | btrax スタッフブログ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a
+            href=&quot;http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202505342-1404429850.jpg&quot; alt=&quot;海外向けWebサイト作成のポイント
+            Top10 〜第1回 btraxオンラインセミナーより〜 | freshtrax | btrax スタッフブログ&quot; title=&quot;海外向けWebサイト作成のポイント
+            Top10 〜第1回 btraxオンラインセミナーより〜 | freshtrax | btrax スタッフブログ&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;海外向けWebサイトを作ったけれどいまいち問い合わせが来ない。そんな悩みを解消するため、海外向けWebサイト作成をテーマとして、先日弊社CEOが第一回btraxオンラインセミナーを行った。海外向けウェブサイトを作るにあたって気をつけなければならないことは正しい英語を使用することだけではもちろんない。今回はセミナーのテーマとなった”海外向けサイトにありがちな間違いTOP10”をセミナーでのQ&amp;amp;Aと併...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/&quot;
+            alt=&quot;はてなブックマーク - 海外向けWebサイト作成のポイント Top10 〜第1回 btraxオンラインセミナーより〜 | freshtrax | btrax
+            スタッフブログ&quot; title=&quot;はてなブックマーク - 海外向けWebサイト作成のポイント Top10 〜第1回 btraxオンラインセミナーより〜 |
+            freshtrax | btrax スタッフブログ&quot; border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://b.hatena.ne.jp/append?http://blog.btrax.com/jp/2014/07/03/abroad-website-seminar/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:23:32+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>10</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://mainichi.jp/select/news/20140704k0000m040115000c.html">
+        <title>京大学長:山極氏を選出へ…ゴリラ研究の第一人者 - 毎日新聞</title>
+        <link>http://mainichi.jp/select/news/20140704k0000m040115000c.html</link>
+        <description>
+            今年９月末で任期を終える京都大の松本紘（ひろし）学長の後任に、前京大大学院理学研究科長で、ゴリラ研究の第一人者として知られる山極寿一（やまぎわ・じゅいち）教授（６２）が選ばれる見通しであることが、関係者への取材で分かった。３日の教職員による投票（意向調査）で選ばれ、４日の学長選考会議で正式に決まる。
+            山極氏は１９７５年、京都大理学部卒。２００２年理学研究科教授に就任。１３年３月末までの２年間、理学...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://mainichi.jp/select/news/20140704k0000m040115000c.html&quot;
+            title=&quot;京大学長:山極氏を選出へ…ゴリラ研究の第一人者 - 毎日新聞&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fmainichi.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://mainichi.jp/select/news/20140704k0000m040115000c.html&quot;&gt;京大学長:山極氏を選出へ…ゴリラ研究の第一人者
+            - 毎日新聞&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://mainichi.jp/select/news/20140704k0000m040115000c.html&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202505126-1404429687.jpg&quot; alt=&quot;京大学長:山極氏を選出へ…ゴリラ研究の第一人者
+            - 毎日新聞&quot; title=&quot;京大学長:山極氏を選出へ…ゴリラ研究の第一人者 - 毎日新聞&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今年９月末で任期を終える京都大の松本紘（ひろし）学長の後任に、前京大大学院理学研究科長で、ゴリラ研究の第一人者として知られる山極寿一（やまぎわ・じゅいち）教授（６２）が選ばれる見通しであることが、関係者への取材で分かった。３日の教職員による投票（意向調査）で選ばれ、４日の学長選考会議で正式に決まる。
+            山極氏は１９７５年、京都大理学部卒。２００２年理学研究科教授に就任。１３年３月末までの２年間、理学...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://mainichi.jp/select/news/20140704k0000m040115000c.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://mainichi.jp/select/news/20140704k0000m040115000c.html&quot;
+            alt=&quot;はてなブックマーク - 京大学長:山極氏を選出へ…ゴリラ研究の第一人者 - 毎日新聞&quot; title=&quot;はてなブックマーク -
+            京大学長:山極氏を選出へ…ゴリラ研究の第一人者 - 毎日新聞&quot; border=&quot;0&quot; style=&quot;border: none&quot;
+            /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://mainichi.jp/select/news/20140704k0000m040115000c.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:21:02+09:00</dc:date>
+        <dc:subject>世の中</dc:subject>
+        <hatena:bookmarkcount>13</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/">
+        <title>米オクラホマ州の地震多発、シェール採掘に起因　コーネル大　　：日本経済新聞</title>
+        <link>http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/</link>
+        <description>
+            【ワシントン＝共同】米南部オクラホマ州で数年前から多発している地震は、シェールガスやシェールオイルの採掘に伴う大量の廃水が地中に捨てられて引き起こされたとする分析を、米コーネル大の研究チームが３日付の米科学誌サイエンスに発表した。　地中の廃水が潤滑油のように働いて断層が動きやすくなったのが原因。特に注水量が多い４基の廃水井戸の影響が大きく、地震全体の20％の誘発要因となっていた。地震の範囲も拡大し...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/&quot;
+            title=&quot;米オクラホマ州の地震多発、シェール採掘に起因　コーネル大　　：日本経済新聞&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.nikkei.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/&quot;&gt;米オクラホマ州の地震多発、シェール採掘に起因　コーネル大　　：日本経済新聞&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a
+            href=&quot;http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202504690-1404429094.jpg&quot; alt=&quot;米オクラホマ州の地震多発、シェール採掘に起因　コーネル大　　：日本経済新聞&quot;
+            title=&quot;米オクラホマ州の地震多発、シェール採掘に起因　コーネル大　　：日本経済新聞&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【ワシントン＝共同】米南部オクラホマ州で数年前から多発している地震は、シェールガスやシェールオイルの採掘に伴う大量の廃水が地中に捨てられて引き起こされたとする分析を、米コーネル大の研究チームが３日付の米科学誌サイエンスに発表した。　地中の廃水が潤滑油のように働いて断層が動きやすくなったのが原因。特に注水量が多い４基の廃水井戸の影響が大きく、地震全体の20％の誘発要因となっていた。地震の範囲も拡大し...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/&quot;
+            alt=&quot;はてなブックマーク - 米オクラホマ州の地震多発、シェール採掘に起因　コーネル大　　：日本経済新聞&quot; title=&quot;はてなブックマーク
+            - 米オクラホマ州の地震多発、シェール採掘に起因　コーネル大　　：日本経済新聞&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.nikkei.com/article/DGXNASDG03030_T00C14A7CR8000/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:11:16+09:00</dc:date>
+        <dc:subject>政治と経済</dc:subject>
+        <hatena:bookmarkcount>5</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://getnews.jp/archives/613103">
+        <title>「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG） – ガジェット通信</title>
+        <link>http://getnews.jp/archives/613103</link>
+        <description>今回はメカAGさんのブログからご寄稿いただきました。 ※この記事は2014年06月28日に書かれたものです。
+            「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG）
+            今回の女性議員へのセクハラ野次騒動でひとつはっきりしたことがある。ネットの自称「先進的・革新的」なジャーナリストは、実は非常に保守的だということ。
+            セクハラ野次の是非は置いておくとして、数を頼みにして世論を形成し、社...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://getnews.jp/archives/613103&quot; title=&quot;「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG）
+            – ガジェット通信&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fgetnews.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://getnews.jp/archives/613103&quot;&gt;「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG）
+            – ガジェット通信&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://getnews.jp/archives/613103&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202504382-1404428774.jpg&quot; alt=&quot;「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG）
+            – ガジェット通信&quot; title=&quot;「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG） – ガジェット通信&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今回はメカAGさんのブログからご寄稿いただきました。 ※この記事は2014年06月28日に書かれたものです。
+            「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG）
+            今回の女性議員へのセクハラ野次騒動でひとつはっきりしたことがある。ネットの自称「先進的・革新的」なジャーナリストは、実は非常に保守的だということ。
+            セクハラ野次の是非は置いておくとして、数を頼みにして世論を形成し、社...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://getnews.jp/archives/613103&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://getnews.jp/archives/613103&quot; alt=&quot;はてなブックマーク
+            - 「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG） – ガジェット通信&quot; title=&quot;はてなブックマーク -
+            「女性議員にセクハラ野次を飛ばしてはいけない」という同調圧力（メカAG） – ガジェット通信&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://getnews.jp/archives/613103&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:05:47+09:00</dc:date>
+        <dc:subject>世の中</dc:subject>
+        <hatena:bookmarkcount>8</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://afidou.com/afi/1123">
+        <title>「あれ？伸びている？」「うわ、落ちている」あなたはどちら？５月におきたパンダアップデートとペイデイローンアップデートの影響と特徴 |
+            SEOアフィリエイトで稼ぐならアフィ道
+        </title>
+        <link>http://afidou.com/afi/1123</link>
+        <description>5月20日に、GoogleのMatt
+            Cutts（マット・カッツ）氏は、パンダアップデート4.0とペイデイローンアップデート4.0のアルゴリズム更新を実施したと発表しました。 Google is rolling
+            out our Panda 4.0 update starting today. — Matt Cutts (@mattcutts) 2014, 5月 20 This past
+            weeke...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://afidou.com/afi/1123&quot; title=&quot;「あれ？伸びている？」「うわ、落ちている」あなたはどちら？５月におきたパンダアップデートとペイデイローンアップデートの影響と特徴
+            | SEOアフィリエイトで稼ぐならアフィ道&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fafidou.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://afidou.com/afi/1123&quot;&gt;「あれ？伸びている？」「うわ、落ちている」あなたはどちら？５月におきたパンダアップデートとペイデイローンアップデートの影響と特徴
+            | SEOアフィリエイトで稼ぐならアフィ道&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://afidou.com/afi/1123&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202504342-1404428713.jpg&quot; alt=&quot;「あれ？伸びている？」「うわ、落ちている」あなたはどちら？５月におきたパンダアップデートとペイデイローンアップデートの影響と特徴
+            | SEOアフィリエイトで稼ぐならアフィ道&quot; title=&quot;「あれ？伸びている？」「うわ、落ちている」あなたはどちら？５月におきたパンダアップデートとペイデイローンアップデートの影響と特徴
+            | SEOアフィリエイトで稼ぐならアフィ道&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;5月20日に、GoogleのMatt
+            Cutts（マット・カッツ）氏は、パンダアップデート4.0とペイデイローンアップデート4.0のアルゴリズム更新を実施したと発表しました。 Google is rolling
+            out our Panda 4.0 update starting today. — Matt Cutts (@mattcutts) 2014, 5月 20 This past
+            weeke...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://afidou.com/afi/1123&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://afidou.com/afi/1123&quot; alt=&quot;はてなブックマーク
+            - 「あれ？伸びている？」「うわ、落ちている」あなたはどちら？５月におきたパンダアップデートとペイデイローンアップデートの影響と特徴 | SEOアフィリエイトで稼ぐならアフィ道&quot;
+            title=&quot;はてなブックマーク - 「あれ？伸びている？」「うわ、落ちている」あなたはどちら？５月におきたパンダアップデートとペイデイローンアップデートの影響と特徴
+            | SEOアフィリエイトで稼ぐならアフィ道&quot; border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://b.hatena.ne.jp/append?http://afidou.com/afi/1123&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:04:51+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>9</hatena:bookmarkcount>
+    </item>
+    <item
+        rdf:about="http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm">
+        <title>ＡＥＤ使用遅れ大学生死亡　両親が大学側に賠償求め提訴 - MSN産経west</title>
+        <link>http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm</link>
+        <description>
+            大阪体育大（大阪府熊取町）のサッカー部員だった那須正雄さん＝当時（２０）＝が練習中に倒れ、その後死亡したのは速やかな自動体外式除細動器（ＡＥＤ）の使用がなかったためとして、両親が大学を運営する学校法人「浪商学園」（熊取町）を相手取り、約７８００万円の賠償を求める訴訟を大阪地裁堺支部に起こしたことが３日、分かった。　訴状によると、那須さんは今年３月３日、同大サッカー場でランニングをした後の午前９時３...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm&quot;
+            title=&quot;ＡＥＤ使用遅れ大学生死亡　両親が大学側に賠償求め提訴 - MSN産経west&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fsankei.jp.msn.com%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm&quot;&gt;ＡＥＤ使用遅れ大学生死亡　両親が大学側に賠償求め提訴
+            - MSN産経west&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202504310-1404428668.jpg&quot; alt=&quot;ＡＥＤ使用遅れ大学生死亡　両親が大学側に賠償求め提訴
+            - MSN産経west&quot; title=&quot;ＡＥＤ使用遅れ大学生死亡　両親が大学側に賠償求め提訴 - MSN産経west&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;大阪体育大（大阪府熊取町）のサッカー部員だった那須正雄さん＝当時（２０）＝が練習中に倒れ、その後死亡したのは速やかな自動体外式除細動器（ＡＥＤ）の使用がなかったためとして、両親が大学を運営する学校法人「浪商学園」（熊取町）を相手取り、約７８００万円の賠償を求める訴訟を大阪地裁堺支部に起こしたことが３日、分かった。　訴状によると、那須さんは今年３月３日、同大サッカー場でランニングをした後の午前９時３...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm&quot;
+            alt=&quot;はてなブックマーク - ＡＥＤ使用遅れ大学生死亡　両親が大学側に賠償求め提訴 - MSN産経west&quot; title=&quot;はてなブックマーク
+            - ＡＥＤ使用遅れ大学生死亡　両親が大学側に賠償求め提訴 - MSN産経west&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://sankei.jp.msn.com/west/west_affairs/news/140703/waf14070321330029-n1.htm&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T08:04:16+09:00</dc:date>
+        <dc:subject>世の中</dc:subject>
+        <hatena:bookmarkcount>6</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html">
+        <title>【やじうまWatch】あの「Chumby」がまさかの復活、新製品2機種の近日発売を予告 -INTERNET Watch</title>
+        <link>http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html</link>
+        <description>やじうまWatch あの「Chumby」がまさかの復活、新製品2機種の近日発売を予告 （2014/7/4 06:00）
+            クッションに画面が付いたようなユニークな外見で一時期話題となったLinuxベースのガジェット「Chumby（チャンビー）」。日本でも当時はコミュニティが盛り上がりを見せ、輸入販売も行われていたが、ちょうどスマホやタブレットのブームに重なったこともあって徐々に下火となり、2011年...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html&quot;
+            title=&quot;【やじうまWatch】あの「Chumby」がまさかの復活、新製品2機種の近日発売を予告 -INTERNET Watch&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Finternet.watch.impress.co.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html&quot;&gt;【やじうまWatch】あの「Chumby」がまさかの復活、新製品2機種の近日発売を予告
+            -INTERNET Watch&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;やじうまWatch
+            あの「Chumby」がまさかの復活、新製品2機種の近日発売を予告 （2014/7/4 06:00）
+            クッションに画面が付いたようなユニークな外見で一時期話題となったLinuxベースのガジェット「Chumby（チャンビー）」。日本でも当時はコミュニティが盛り上がりを見せ、輸入販売も行われていたが、ちょうどスマホやタブレットのブームに重なったこともあって徐々に下火となり、2011年...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html&quot;
+            alt=&quot;はてなブックマーク - 【やじうまWatch】あの「Chumby」がまさかの復活、新製品2機種の近日発売を予告 -INTERNET Watch&quot;
+            title=&quot;はてなブックマーク - 【やじうまWatch】あの「Chumby」がまさかの復活、新製品2機種の近日発売を予告 -INTERNET Watch&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://internet.watch.impress.co.jp/docs/yajiuma/20140704_656406.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T07:55:59+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>22</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://toyokeizai.net/articles/-/41725">
+        <title>なぜ大戸屋は、アジアで大人気なのか | 決断筋を鍛える | 東洋経済オンライン | 新世代リーダーのためのビジネスサイト</title>
+        <link>http://toyokeizai.net/articles/-/41725</link>
+        <description>エッグフォワード株式会社
+            代表取締役 京都大学経済学部卒業。大手戦略コンサルマネージャーを経て、東南アジアオフィスを立上げ代表に就任。その後、エッグフォワード株式会社を設立し、企業の経営改革や海外展開支援に加え、実践・体感型スクールを運営し、世界一の教育機関創りを目指す。「ビジネス×心理」のプロとして、年間10,000人以上に対し研修・講演・セミナーを行っている。著書「いま、決める力（日本実業出版...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://toyokeizai.net/articles/-/41725&quot;
+            title=&quot;なぜ大戸屋は、アジアで大人気なのか | 決断筋を鍛える | 東洋経済オンライン | 新世代リーダーのためのビジネスサイト&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Ftoyokeizai.net%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://toyokeizai.net/articles/-/41725&quot;&gt;なぜ大戸屋は、アジアで大人気なのか
+            | 決断筋を鍛える | 東洋経済オンライン | 新世代リーダーのためのビジネスサイト&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://toyokeizai.net/articles/-/41725&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202503606-1404427735.jpg&quot; alt=&quot;なぜ大戸屋は、アジアで大人気なのか
+            | 決断筋を鍛える | 東洋経済オンライン | 新世代リーダーのためのビジネスサイト&quot; title=&quot;なぜ大戸屋は、アジアで大人気なのか | 決断筋を鍛える
+            | 東洋経済オンライン | 新世代リーダーのためのビジネスサイト&quot; class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;エッグフォワード株式会社
+            代表取締役 京都大学経済学部卒業。大手戦略コンサルマネージャーを経て、東南アジアオフィスを立上げ代表に就任。その後、エッグフォワード株式会社を設立し、企業の経営改革や海外展開支援に加え、実践・体感型スクールを運営し、世界一の教育機関創りを目指す。「ビジネス×心理」のプロとして、年間10,000人以上に対し研修・講演・セミナーを行っている。著書「いま、決める力（日本実業出版...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://toyokeizai.net/articles/-/41725&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://toyokeizai.net/articles/-/41725&quot;
+            alt=&quot;はてなブックマーク - なぜ大戸屋は、アジアで大人気なのか | 決断筋を鍛える | 東洋経済オンライン | 新世代リーダーのためのビジネスサイト&quot;
+            title=&quot;はてなブックマーク - なぜ大戸屋は、アジアで大人気なのか | 決断筋を鍛える | 東洋経済オンライン | 新世代リーダーのためのビジネスサイト&quot;
+            border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://toyokeizai.net/articles/-/41725&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T07:48:35+09:00</dc:date>
+        <dc:subject>暮らし</dc:subject>
+        <hatena:bookmarkcount>11</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/">
+        <title>東京駅丸の内側に大広場、17年春に誕生｜日経BP社 ケンプラッツ</title>
+        <link>http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/</link>
+        <description>
+            東日本旅客鉄道（JR東日本）は7月2日、東京駅の丸の内側に新たな駅前広場を整備すると発表した。丸の内駅舎の正面に「都市の広場（仮称）」と名付けた6500m2の歩行者空間を整備。広場を挟む南北の2カ所に、路線バスやタクシー乗り場などを集約した交通広場をそれぞれ設ける。
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/&quot;
+            title=&quot;東京駅丸の内側に大広場、17年春に誕生｜日経BP社 ケンプラッツ&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fkenplatz.nikkeibp.co.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/&quot;&gt;東京駅丸の内側に大広場、17年春に誕生｜日経BP社
+            ケンプラッツ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;東日本旅客鉄道（JR東日本）は7月2日、東京駅の丸の内側に新たな駅前広場を整備すると発表した。丸の内駅舎の正面に「都市の広場（仮称）」と名付けた6500m2の歩行者空間を整備。広場を挟む南北の2カ所に、路線バスやタクシー乗り場などを集約した交通広場をそれぞれ設ける。&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/&quot;
+            alt=&quot;はてなブックマーク - 東京駅丸の内側に大広場、17年春に誕生｜日経BP社 ケンプラッツ&quot; title=&quot;はてなブックマーク -
+            東京駅丸の内側に大広場、17年春に誕生｜日経BP社 ケンプラッツ&quot; border=&quot;0&quot; style=&quot;border: none&quot;
+            /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://kenplatz.nikkeibp.co.jp/article/knp/news/20140704/669749/&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T07:46:04+09:00</dc:date>
+        <dc:subject>世の中</dc:subject>
+        <hatena:bookmarkcount>4</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html">
+        <title>ソニーの技術革新は、フルサイズ一眼市場の勢力図を変えるか | 井口 裕右</title>
+        <link>http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html</link>
+        <description>
+            【井口裕右の取材後記】プロカメラマンやハイアマチュアの写真愛好家向けのデジタル一眼カメラ市場は、キヤノンとニコンのフルサイズ一眼レフカメラがグローバルで支配的な地位を確立してきた。マイクロフォーサーズやAPS-Cセンサーを搭載したミラーレスカメラも人気を急拡大しているが、プロやハイアマチュアにとっては&quot;サブカメラ&quot;の域を出ていないのが現状だ。そのような市況において、ソニーが発売した35mmフルサイ...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html&quot;
+            title=&quot;ソニーの技術革新は、フルサイズ一眼市場の勢力図を変えるか | 井口 裕右&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.huffingtonpost.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html&quot;&gt;ソニーの技術革新は、フルサイズ一眼市場の勢力図を変えるか
+            | 井口 裕右&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202502742-1404427668.jpg&quot; alt=&quot;ソニーの技術革新は、フルサイズ一眼市場の勢力図を変えるか
+            | 井口 裕右&quot; title=&quot;ソニーの技術革新は、フルサイズ一眼市場の勢力図を変えるか | 井口 裕右&quot; class=&quot;entry-image&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;【井口裕右の取材後記】プロカメラマンやハイアマチュアの写真愛好家向けのデジタル一眼カメラ市場は、キヤノンとニコンのフルサイズ一眼レフカメラがグローバルで支配的な地位を確立してきた。マイクロフォーサーズやAPS-Cセンサーを搭載したミラーレスカメラも人気を急拡大しているが、プロやハイアマチュアにとっては&amp;quot;サブカメラ&amp;quot;の域を出ていないのが現状だ。そのような市況において、ソニーが発売した35mmフルサイ...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html&quot;
+            alt=&quot;はてなブックマーク - ソニーの技術革新は、フルサイズ一眼市場の勢力図を変えるか | 井口 裕右&quot; title=&quot;はてなブックマーク -
+            ソニーの技術革新は、フルサイズ一眼市場の勢力図を変えるか | 井口 裕右&quot; border=&quot;0&quot; style=&quot;border: none&quot;
+            /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.huffingtonpost.jp/yusuke-iguchi/post_7940_b_5551587.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T07:45:29+09:00</dc:date>
+        <dc:subject>テクノロジー</dc:subject>
+        <hatena:bookmarkcount>18</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://www.lifehacker.jp/2014/07/140704book_to_read.html">
+        <title>何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ : ライフハッカー［日本版］</title>
+        <link>http://www.lifehacker.jp/2014/07/140704book_to_read.html</link>
+        <description>アイデア発想術 , スタディ , 仕事術 , 書評 何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ 印南敦史 | ライター
+            2014.07.04 07:30
+            人と自分を比較すればするほど、ねたみ、そねみ、うらやみ、憎しみ、劣等感、自己嫌悪などマイナスの感情が心を占めるようになるもの。そして心がどんどん凹み、人生そのものがマイナスに傾いてしまうようになったりもします。
+            そうならない...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://www.lifehacker.jp/2014/07/140704book_to_read.html&quot;
+            title=&quot;何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ : ライフハッカー［日本版］&quot;&gt;&lt;cite&gt;&lt;img
+            src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.lifehacker.jp%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://www.lifehacker.jp/2014/07/140704book_to_read.html&quot;&gt;何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ
+            : ライフハッカー［日本版］&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href=&quot;http://www.lifehacker.jp/2014/07/140704book_to_read.html&quot;&gt;&lt;img
+            src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202502606-1404427525.jpg&quot; alt=&quot;何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ
+            : ライフハッカー［日本版］&quot; title=&quot;何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ : ライフハッカー［日本版］&quot;
+            class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;アイデア発想術 , スタディ , 仕事術 ,
+            書評 何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ 印南敦史 | ライター 2014.07.04 07:30
+            人と自分を比較すればするほど、ねたみ、そねみ、うらやみ、憎しみ、劣等感、自己嫌悪などマイナスの感情が心を占めるようになるもの。そして心がどんどん凹み、人生そのものがマイナスに傾いてしまうようになったりもします。
+            そうならない...&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://b.hatena.ne.jp/entry/http://www.lifehacker.jp/2014/07/140704book_to_read.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://www.lifehacker.jp/2014/07/140704book_to_read.html&quot;
+            alt=&quot;はてなブックマーク - 何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ : ライフハッカー［日本版］&quot; title=&quot;はてなブックマーク
+            - 何事もうまくいかない理由は「他人とくらべてしまう」という悪いクセ : ライフハッカー［日本版］&quot; border=&quot;0&quot; style=&quot;border:
+            none&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://b.hatena.ne.jp/append?http://www.lifehacker.jp/2014/07/140704book_to_read.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T07:45:05+09:00</dc:date>
+        <dc:subject>暮らし</dc:subject>
+        <hatena:bookmarkcount>11</hatena:bookmarkcount>
+    </item>
+    <item rdf:about="http://blog.livedoor.jp/kinisoku/archives/4108557.html">
+        <title>【画像あり】石原さとみの画像欲しいのだが：キニ速</title>
+        <link>http://blog.livedoor.jp/kinisoku/archives/4108557.html</link>
+        <description>1：名無しさん＠おーぷん： 2014/06/30(月)20:14:12ID:Ob0b4ZJ0K おまえらなら… 3：名無しさん＠おーぷん：
+            2014/06/30(月)20:14:34ID:BU9el1nbM 無能ッ！！！！ 圧倒的…無能ッ！！！！ 2：名無しさん＠おーぷん：
+            2014/06/30(月)20:14:31ID:0Ckpx0MTv 明日なら 5：名無しさん＠おーぷん： 2014/06/3...
+        </description>
+        <content:encoded>&lt;blockquote cite=&quot;http://blog.livedoor.jp/kinisoku/archives/4108557.html&quot;
+            title=&quot;【画像あり】石原さとみの画像欲しいのだが：キニ速&quot;&gt;&lt;cite&gt;&lt;img src=&quot;http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fblog.livedoor.jp%2Fkinisoku%2F&quot;
+            alt=&quot;&quot; /&gt; &lt;a href=&quot;http://blog.livedoor.jp/kinisoku/archives/4108557.html&quot;&gt;【画像あり】石原さとみの画像欲しいのだが：キニ速&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a
+            href=&quot;http://blog.livedoor.jp/kinisoku/archives/4108557.html&quot;&gt;&lt;img src=&quot;http://cdn-ak.b.st-hatena.com/entryimage/202502298-1404427453.jpg&quot;
+            alt=&quot;【画像あり】石原さとみの画像欲しいのだが：キニ速&quot; title=&quot;【画像あり】石原さとみの画像欲しいのだが：キニ速&quot;
+            class=&quot;entry-image&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;1：名無しさん＠おーぷん：
+            2014/06/30(月)20:14:12ID:Ob0b4ZJ0K おまえらなら… 3：名無しさん＠おーぷん：
+            2014/06/30(月)20:14:34ID:BU9el1nbM 無能ッ！！！！ 圧倒的…無能ッ！！！！ 2：名無しさん＠おーぷん：
+            2014/06/30(月)20:14:31ID:0Ckpx0MTv 明日なら 5：名無しさん＠おーぷん： 2014/06/3...&lt;/p&gt;&lt;p&gt;&lt;a
+            href=&quot;http://b.hatena.ne.jp/entry/http://blog.livedoor.jp/kinisoku/archives/4108557.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/entry/image/http://blog.livedoor.jp/kinisoku/archives/4108557.html&quot;
+            alt=&quot;はてなブックマーク - 【画像あり】石原さとみの画像欲しいのだが：キニ速&quot; title=&quot;はてなブックマーク -
+            【画像あり】石原さとみの画像欲しいのだが：キニ速&quot; border=&quot;0&quot; style=&quot;border: none&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;http://b.hatena.ne.jp/append?http://blog.livedoor.jp/kinisoku/archives/4108557.html&quot;&gt;&lt;img
+            src=&quot;http://b.hatena.ne.jp/images/append.gif&quot; border=&quot;0&quot; alt=&quot;はてなブックマークに追加&quot;
+            title=&quot;はてなブックマークに追加&quot;
+            /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
+        <dc:date>2014-07-04T07:43:41+09:00</dc:date>
+        <dc:subject>おもしろ</dc:subject>
+        <hatena:bookmarkcount>5</hatena:bookmarkcount>
+    </item>
+</rdf:RDF>

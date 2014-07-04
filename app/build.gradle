@@ -1,0 +1,47 @@
+apply plugin: 'android'
+apply plugin: 'kotlin-android'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 18
+        versionCode 10000 //1.00.00
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+        androidTest.java.srcDirs += 'src/androidTest/kotlin'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:19.+'
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    compile 'com.squareup:otto:1.3.4'
+    compile 'com.squareup.picasso:picasso:2.3.2'
+    compile 'org.jsoup:jsoup:1.7.3'
+    compile 'com.nhaarman.listviewanimations:library:2.6.0'
+    androidTestCompile 'org.apache.directory.studio:org.apache.commons.io:2.4'
+}
+buildscript {
+    ext.kotlin_version = '0.8.11'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+repositories {
+    mavenCentral()
+}
