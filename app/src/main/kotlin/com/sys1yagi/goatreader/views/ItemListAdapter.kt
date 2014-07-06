@@ -12,7 +12,7 @@ import com.squareup.picasso.Picasso
 import java.text.SimpleDateFormat
 import java.util.Locale
 
-public class ItemListView(context: Context) : ArrayAdapter<Item>(context, -1) {
+public class ItemListAdapter(context: Context) : ArrayAdapter<Item>(context, -1) {
 
     class object {
         val FORMAT = SimpleDateFormat("yyyy/MM/dd HH:mm:ss")

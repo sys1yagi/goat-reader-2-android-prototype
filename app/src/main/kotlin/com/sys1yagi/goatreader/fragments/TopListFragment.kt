@@ -10,7 +10,7 @@ import com.sys1yagi.goatreader.R
 import com.activeandroid.query.Select
 import com.sys1yagi.goatreader.models.Item
 import android.widget.ListView
-import com.sys1yagi.goatreader.views.ItemListView
+import com.sys1yagi.goatreader.views.ItemListAdapter
 import android.content.Intent
 import android.net.Uri
 import com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeDismissAdapter
@@ -38,7 +38,7 @@ class TopListFragment : Fragment() {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
-        val adapter = ItemListView(getActivity()!!)
+        val adapter = ItemListAdapter(getActivity()!!)
         Select().from(javaClass<Item>())
                 ?.where("${Item.IS_READ}=?", false)
                 ?.orderBy("${Item.CREATED_AT} desc")
