@@ -12,11 +12,13 @@ import com.sys1yagi.goatreader.R
 import android.view.View
 import android.widget.ListView
 import android.view.MenuItem
+import com.sys1yagi.goatreader.views.MenuList
+import android.util.Log
 
 public class MainActivity() : ActionBarActivity() {
 
-    var drawerToggle: ActionBarDrawerToggle? = null
-    val drawerLayout: DrawerLayout by viewInjector(R.id.drawer_layout)
+    val menuList: MenuList = MenuList()
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Cron.start(this)
@@ -40,28 +42,21 @@ public class MainActivity() : ActionBarActivity() {
     fun setupActionBar() {
         val actionBar = getSupportActionBar()
         actionBar?.setLogo(getResources()?.getDrawable(R.drawable.ic_theme_with_shadow))
-        drawerToggle = object : ActionBarDrawerToggle(
-                this, drawerLayout, R.drawable.ic_drawer, R.string.drawer_open, R.string.drawer_close) {
-            override fun onDrawerClosed(view: View?) {
-                super.onDrawerClosed(view)
-            }
+        menuList.setupActionBar(
+                this,
+                findViewById(R.id.drawer_layout) as DrawerLayout
 
-            override fun onDrawerOpened(drawerView: View?) {
-                super.onDrawerOpened(drawerView)
-            }
-        }
-        drawerLayout.setDrawerListener(drawerToggle);
-
-        actionBar?.setDisplayHomeAsUpEnabled(true);
-        actionBar?.setHomeButtonEnabled(true);
+        )
+        menuList.setupList(this, findViewById(R.id.left_drawer) as ListView)
     }
 
     override fun onPostCreate(savedInstanceState: Bundle?) {
         super.onPostCreate(savedInstanceState);
-        drawerToggle?.syncState();
+        menuList.onPostCreate()
     }
+
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
-        if (drawerToggle?.onOptionsItemSelected(item)!!) {
+        if (menuList?.onOptionsItemSelected(item)) {
             return true
         }
 
