@@ -37,15 +37,23 @@ class TopListFragment : Fragment() {
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
+        setupListView()
+    }
+    fun setupListView() {
+        val adapter = ItemListAdapter(getActivity()!!, { a, remain ->
+            var from = Select().from(javaClass<Item>())
+                    ?.where("${Item.IS_READ}=?", false)
 
-        val adapter = ItemListAdapter(getActivity()!!)
-        Select().from(javaClass<Item>())
-                ?.where("${Item.IS_READ}=?", false)
-                ?.orderBy("${Item.CREATED_AT} desc")
-                ?.execute<Item>()
-                ?.forEach {
-                    adapter.add(it)
-                }
+            remain?.forEach {
+                from = from?.where("id!=?", it.getId())
+            }
+            from?.orderBy("${Item.CREATED_AT} desc")
+                    ?.limit(30)
+                    ?.execute<Item>()
+                    ?.forEach {
+                        a.add(it)
+                    }
+        })
 
         val swipeDismissAdaper = SwipeDismissAdapter(adapter, OnDismissCallback {
             listView, positions ->

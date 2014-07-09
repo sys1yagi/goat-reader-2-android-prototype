@@ -11,13 +11,30 @@ import android.widget.ImageView
 import com.squareup.picasso.Picasso
 import java.text.SimpleDateFormat
 import java.util.Locale
+import com.activeandroid.query.From
+import java.util.ArrayList
 
-public class ItemListAdapter(context: Context) : ArrayAdapter<Item>(context, -1) {
+public class ItemListAdapter(context: Context, val loader: ((ItemListAdapter, List<Item>?) -> Unit)) : ArrayAdapter<Item>(context, -1) {
 
     class object {
         val FORMAT = SimpleDateFormat("yyyy/MM/dd HH:mm:ss")
     }
 
+    {
+        loader(this, null)
+    }
+
+    override fun remove(obj: Item?) {
+        super<ArrayAdapter>.remove(obj)
+        if (getCount() <= 10) {
+            val remain = ArrayList<Item>()
+            for (i in 0..getCount() - 1) {
+                remain.add(getItem(i)!!)
+            }
+            loader(this, remain)
+        }
+
+    }
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View? {
         var view: View? = convertView
         if (view == null) {
