@@ -19,6 +19,7 @@ import java.util.Locale
 import org.jsoup.parser.Parser
 import com.sys1yagi.goatreader.models.Item
 import java.util.regex.Pattern
+import com.sys1yagi.goatreader.models.LastRequestTime
 
 public class FetchService() : Service() {
     class object {
@@ -27,6 +28,7 @@ public class FetchService() : Service() {
         val FORMAT = SimpleDateFormat("EEE, d MMMM yyyy HH:mm:ss z", Locale.ENGLISH)
         val RSS_DATE_FORMAT = SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssz")
         val IMAGE_LINK_PATTERN = Pattern.compile("<img src=\"(http[^\"]+\\.jpg)\"")!!
+        val REQUEST_INTERVAL = 1000L * 60L * 15L
     }
 
     override fun onBind(p0: android.content.Intent): android.os.IBinder? {
@@ -38,9 +40,13 @@ public class FetchService() : Service() {
 
         EXECUTOR?.execute(object : Runnable {
             override fun run() {
-                loadRss()
-                Logger.d(TAG, "onStartCommand end: " + startId)
+                if (LastRequestTime.getLastRequestTimeSpan() > REQUEST_INTERVAL) {
+                    loadRss()
+                    LastRequestTime.saveLastRequestTime()
+
+                }
                 stopSelfResult(startId)
+                Logger.d(TAG, "onStartCommand end: " + startId)
             }
         })
         return Service.START_STICKY
@@ -66,9 +72,6 @@ public class FetchService() : Service() {
         parse(feed.getId(), xml)
 
         Logger.d(TAG, "${feed?.url} modified. time : ${System.currentTimeMillis() - startTime}")
-        Logger.d(TAG, "total:${Select().from(javaClass<Item>())?.count()}")
-        Logger.d(TAG, "read:${Select().from(javaClass<Item>())?.where("${Item.IS_READ}=?", true)?.count()}")
-        Logger.d(TAG, "unread:${Select().from(javaClass<Item>())?.where("${Item.IS_READ}=?", false)?.count()}")
     }
 
     public fun parse(feedId: Long?, xml: String?) {

@@ -27,7 +27,6 @@ class MenuList() {
         adapter.add(Menu(R.drawable.ic_read, "Read", getCount { f -> f?.where("${Item.IS_READ}=?", true) }))
         adapter.add(Menu(R.drawable.ic_fav, "Fav", getCount { f -> f?.where("${Item.IS_FAV}=?", true) }))
         listView.setAdapter(adapter)
-
     }
 
     fun setupActionBar(activity: ActionBarActivity, drawerLayout: DrawerLayout) {
