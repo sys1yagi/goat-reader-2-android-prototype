@@ -40,7 +40,7 @@ public class FetchService() : Service() {
 
         EXECUTOR?.execute(object : Runnable {
             override fun run() {
-                if (LastRequestTime.getLastRequestTimeSpan() > REQUEST_INTERVAL) {
+                if (LastRequestTime.getLastRequestTimeSpan() > REQUEST_INTERVAL / 2) {
                     loadRss()
                     LastRequestTime.saveLastRequestTime()
 
